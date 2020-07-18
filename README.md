@@ -1,6 +1,6 @@
-### Hi there 👋
-<br/>
+### Hi there, I'm Ankit! 👋. 
 
+<br/>
 <a href="https://www.linkedin.com/in/ankitchhetri/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
