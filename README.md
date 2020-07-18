@@ -1,15 +1,15 @@
 ### Hi there, I'm Ankit! 👋. 
 
 <br/>
-<a href="https://www.linkedin.com/in/ankitchhetri/">
+<a href="https://www.linkedin.com/in/ankitchhetri/" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://t.me/ankitch">
+<a href="https://t.me/ankitch" target="_blank">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<a href="https://www.instagram.com/ankitchhetri/">
+<a href="https://www.instagram.com/ankitchhetri/" target="_blank">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
